@@ -1,0 +1,171 @@
+AI AWARENESS QUIZ
+
+_____________________________________________________________________________________
+SECTION A – AI COMPANIES, MODELS & TOOLS
+_____________________________________________________________________________________
+
+1. Llama is developed by which company?
+Answer: Meta
+
+2. Gemini is developed by which company?
+Answer: Google
+
+3. Claude is developed by which company?
+Answer: Anthropic
+
+4. Grok is developed by which company?
+Answer: xAI
+
+5. Mistral models are developed by which AI company?
+Answer: Mistral AI
+
+6. Which company is associated with the GPT model family?
+Answer: OpenAI
+
+7. Sora is mainly used for generating what type of content?
+Answer: AI-generated videos
+
+8. Veo is an AI video-generation model associated with which company?
+Answer: Google
+
+9. Midjourney is mainly used for what purpose?
+Answer: AI image generation
+
+10. What is GitHub Copilot mainly used for?
+Answer: AI-assisted coding and code completion
+
+_________________________________________________________________________________________
+SECTION B – GENERATIVE AI CONCEPTS
+_________________________________________________________________________________________
+
+11. What does LLM stand for?
+Answer: Large Language Model
+
+12. What is Generative AI?
+Answer: AI that creates new content such as text, images, audio, or video
+
+13. What is a prompt in AI?
+Answer: A prompt is an instruction or input given to an AI model
+
+14. What is a system prompt?
+Answer: A system prompt defines the AI's behavior, role, and rules
+
+15. What does multimodal AI mean?
+Answer: AI that can understand or generate multiple types of data, such as text, images, audio, and video
+
+16. What is an AI hallucination?
+Answer: An incorrect or fabricated AI-generated answer that may appear convincing
+
+17. What are tokens in an LLM?
+Answer: Tokens are small pieces of text processed by an LLM
+
+18. What is an AI model's context window?
+Answer: The maximum amount of information an AI model can consider in one interaction
+
+19. What does inference mean in AI?
+Answer: Inference is the process of using a trained AI model to generate an output
+
+20. What is fine-tuning?
+Answer: Fine-tuning is training a pre-trained model further on specific data for a particular task
+
+_________________________________________________________________________________________
+Section C - AI for Developers & Applications
+_________________________________________________________________________________________
+
+21. What is an AI agent?
+Answer: An AI agent is a system that can plan, use tools, and take actions to achieve a goal
+
+22. What is the main difference between a chatbot and an AI agent?
+Answer: A chatbot mainly responds to users, while an AI agent can perform actions and use tools
+
+23. What is tool calling or function calling?
+Answer: It allows an AI model to request and use external tools or functions
+
+24. What does MCP stand for in modern AI development?
+Answer: Model Context Protocol
+
+25. What is an API key used for when accessing an AI service?
+Answer: An API key is used to authenticate and authorize access to an AI service
+
+26. What is an API rate limit?
+Answer: It is the maximum number of API requests allowed within a specified time period
+
+27. What type of AI product is Cursor?
+Answer: An AI-powered code editor
+
+28. What is NotebookLM mainly designed to help users work with?
+Answer: Documents and other source materials for research, understanding, and summarization
+
+29. What is semantic search?
+Answer: Search that finds information based on meaning and context rather than exact keywords
+
+30. Name any three tasks where developers can use Generative AI productively.
+Answer: Code generation, debugging, and documentation
+
+_________________________________________________________________________________________
+SECTION D – IMAGE, VIDEO, SPEECH, MODELS & HARDWARE
+_________________________________________________________________________________________
+
+31. What is speech-to-text AI?
+Answer: AI that converts spoken language into written text
+
+32. What is text-to-speech AI?
+Answer: AI that converts written text into spoken audio
+
+33. What does OCR allow a computer to extract from an image?
+Answer: OCR extracts readable text from images or scanned documents
+
+34. What is a vision model?
+Answer: An AI model that can understand and analyze images or visual information
+
+35. What is meant by text-to-video AI?
+Answer: AI that generates videos from text descriptions
+
+36. What is a diffusion model commonly used for?
+Answer: Generating images, videos, audio, and other content
+
+37. Why are GPUs widely used for AI workloads?
+Answer: GPUs can perform many calculations in parallel, making them suitable for AI workloads
+
+38. What is an NPU?
+Answer: NPU stands for Neural Processing Unit, a processor designed for AI tasks
+
+39. What does VRAM mainly store while running large AI models?
+Answer: VRAM stores model data, weights, and intermediate computations during AI processing
+
+40. What is meant by running an AI model locally?
+Answer: Running an AI model directly on your own computer or device instead of a remote server
+
+_________________________________________________________________________________________
+SECTION E – ADVANCED AWARENESS, SAFETY & RESPONSIBLE AI
+_________________________________________________________________________________________
+
+41. What is an open-weight AI model?
+Answer: An AI model whose trained weights are publicly available for others to use or modify, subject to its license
+
+42. What is model distillation?
+Answer: A technique for training a smaller model to learn from a larger model
+
+43. What is LoRA commonly used for?
+Answer: LoRA is commonly used to efficiently fine-tune large AI models
+
+44. What does MoE stand for in AI models?
+Answer: Mixture of Experts
+
+45. What is an AI benchmark?
+Answer: A standardized test used to measure and compare AI model performance
+
+46. What is a guardrail in an AI application?
+Answer: A rule or safety mechanism that controls AI behavior and reduces harmful or unwanted outputs
+
+47. What is prompt injection?
+Answer: An attack that tries to manipulate an AI system through specially crafted instructions
+
+48. What does PII stand for?
+Answer: Personally Identifiable Information
+
+49. Why should confidential company data not automatically be pasted into public AI tools?
+Answer: It may expose sensitive information and create privacy or security risks
+
+50. If an AI-generated answer looks convincing, what should a user do before using it for an important decision?
+Answer: Verify the information using reliable sources before making the decision
